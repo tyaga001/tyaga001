@@ -1,16 +1,17 @@
-### Hello! My name is Ankur Tyagi.👋
+Hi there 👋
 
-<!--
-**tyaga001/tyaga001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I&#x27;m Ankur Tyagi, a software engineer 💻 currently working at [Barclays](https://barclays.com) 🍲🥡
 
-Here are some ideas to get you started:
+I love to code in JavaScript, Python. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dad | Test Automation Developer | Fitness Fanatic 
+
+My current side project is [Markdown Profile](https://markdownprofile.com)
+
+[LinkedIn 💼](https://linkedin.com/in/tyaga001)
+
+[Twitter 🐦](https://twitter.com/TheAnkurTyagi)
+
+[Website 🌍](https://ankurtyagilive.netlify.app)
+
+[Email 📬](mailto:wetesterr@gmail.com)
