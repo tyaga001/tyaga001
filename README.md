@@ -2,7 +2,7 @@ Hi there 👋
 
 I&#x27;m Ankur Tyagi, a software engineer 💻 currently working at [Barclays](https://barclays.com) 🍲🥡
 
-I love to code in JavaScript, Python. 
+I love to code in JavaScript & Python. 
 
 Dad | Test Automation Developer | Fitness Fanatic 
 
