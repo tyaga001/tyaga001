@@ -17,6 +17,8 @@ Join us on Facebook [WETESTERR](https://www.facebook.com/groups/WETESTERR)
 
 [Twitter 🐦](https://twitter.com/TheAnkurTyagi)
 
-[Website 🌍](https://ankurtyagilive.netlify.app)
+[Website 🌍](https://theankurtyagi.com/)
 
-[Email 📬](mailto:wetesterr@gmail.com)
+[Website 🌍](https://codelifefitness.com/)
+
+[Email 📬](mailto:hello@theankurtyagi.com)
