@@ -1,12 +1,12 @@
 Hi there 👋
 
-I&#x27;m Ankur Tyagi, a software engineer 💻 currently working at [Barclays](https://barclays.com) 🍲🥡
+I&#x27;m Ankur Tyagi, a software engineer 💻 
 
 I love to code in JavaScript & Python. 
 
 Dad | Test Automation Developer | Fitness Fanatic 
 
-My current side project is [WETESTERR](https://wetesterr.com)
+Follow me on Twitter [TheAnkurTyagi](https://twitter.com/TheAnkurTyagi)
 
 Follow me on YouTube [WETESTERR](https://www.youtube.com/channel/UCPXix_SMwG_RwYhEqJE3G9A)
 
@@ -18,7 +18,5 @@ Join us on Facebook [WETESTERR](https://www.facebook.com/groups/WETESTERR)
 [Twitter 🐦](https://twitter.com/TheAnkurTyagi)
 
 [Website 🌍](https://theankurtyagi.com/)
-
-[Website 🌍](https://codelifefitness.com/)
 
 [Email 📬](mailto:hello@theankurtyagi.com)
