@@ -8,10 +8,6 @@ Dad | Test Automation Developer | Fitness Fanatic
 
 Follow me on Twitter [TheAnkurTyagi](https://twitter.com/TheAnkurTyagi)
 
-Follow me on YouTube [WETESTERR](https://www.youtube.com/channel/UCPXix_SMwG_RwYhEqJE3G9A)
-
-Join us on Facebook [WETESTERR](https://www.facebook.com/groups/WETESTERR)
-
 
 [LinkedIn 💼](https://linkedin.com/in/tyaga001)
 
