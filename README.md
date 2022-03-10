@@ -2,9 +2,9 @@ Hi there 👋
 
 I&#x27;m Ankur Tyagi, a software engineer 💻 
 
-I love to code in JavaScript & Python. 
+I love to code in JavaScript & TypeScript. 
 
-Dad | Test Automation Developer | Fitness Fanatic 
+Dad | Developer Advocate | Fitness Fanatic 
 
 Follow me on Twitter [TheAnkurTyagi](https://twitter.com/TheAnkurTyagi)
 
