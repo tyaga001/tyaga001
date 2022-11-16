@@ -1,6 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ankur Tyagi
 
-I&#x27;m A software engineer, Consultant and technical writer 💻 
+---
+
+A Software engineer, Consultant and Technical Writer 💻 
+
+---
 
 I love to code in JavaScript & TypeScript. 
 
