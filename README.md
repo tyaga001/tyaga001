@@ -6,7 +6,9 @@ A Software engineer, Consultant and Technical Writer 💻
 
 ---
 
-I love to code in JavaScript & TypeScript. 
+I love to code in JavaScript & TypeScript. An enthusiastic software engineer.
+
+I develop, test and deploy web applications, coach budding developers, and create content for the web.
 
 ---
 
