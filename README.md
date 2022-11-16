@@ -8,10 +8,7 @@ A Software engineer, Consultant and Technical Writer 💻
 
 I love to code in JavaScript & TypeScript. 
 
-[LinkedIn 💼](https://linkedin.com/in/tyaga001)
+---
 
-[Twitter 🐦](https://twitter.com/TheAnkurTyagi)
+My Social Media Links: [LinkedIn 💼](https://linkedin.com/in/tyaga001) [Twitter 🐦](https://twitter.com/TheAnkurTyagi) [Website 🌍](https://theankurtyagi.com/)
 
-[Website 🌍](https://theankurtyagi.com/)
-
-[Email 📬](mailto:hello@theankurtyagi.com)
