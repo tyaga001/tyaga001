@@ -14,11 +14,5 @@ I write about the latest tech products and help them in reaching out to develope
 
 ---
 
-💻 Tech Stack
-
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
-
----
-
 My Social Media Links: [LinkedIn 💼](https://linkedin.com/in/tyaga001) [Twitter 🐦](https://twitter.com/TheAnkurTyagi) [Website 🌍](https://theankurtyagi.com/)
 
