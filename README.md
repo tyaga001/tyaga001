@@ -2,15 +2,14 @@
 
 ---
 
-A Software engineer, Consultant and Technical Writer 💻 
-
+My Name is Ankur, living in Sweden and I'm passionate about new technology and developer tools, and I sit somewhere between software engineering, product marketing, growth, community building and developer advocacy. I've been involved with the web for ~14 years and the last 4 of which have been documented in punishing detail on my website.
 ---
 
-I love to code in JavaScript & TypeScript. An Enthusiastic Software Engineer.
+I liked being a Software Engineer but, what I really love to do is code, design, develop, and then write.
 
-I Develop, Test and Deploy Web applications, Coach budding developers, and Create content for the web.
+I Develop, Test and Deploy Web apps, Coach budding devs, create top notch technical content for the web and love product marketing. 
 
-I write about the latest tech products and help them in reaching out to developer communities.
+I write about the latest tech products/SaaS and help them in reaching out to developer communities.
 
 ---
 
