@@ -1,34 +1,38 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ankur Tyagi
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankur Tyagi
 
----
+My Name is Ankur, living in Sweden and I'm passionate about new technology and developer tools, and I sit somewhere between software engineering, product marketing, growth, community building and developer advocacy. I've been involved with the web for ~14 years and the last 4 of which have been documented in punishing detail on my website.
 
-My Name is Ankur, living in Sweden and I'm passionate about new technology and developer tools, and I sit somewhere between software engineering, product marketing, growth, community building and developer advocacy. I've been involved with the web for ~14 years and the last 4 of which have been documented in punishing detail on my website.
----
+## About Me
 
-I liked being a Software Engineer but, what I really love to do is code, design, develop, and then write.
+My expertise includes:
+- Developing, testing, and deploying web applications
+- Coaching budding developers
+- Creating high-quality technical content
+- Product marketing and community outreach
 
-I Develop, Test and Deploy Web apps, Coach budding devs, create top notch technical content for the web and love product marketing. 
+While I enjoyed being a Software Engineer, my true passion lies in the entire process: coding, designing, developing, and then writing about it.
 
-I write about the latest tech products/SaaS and help them in reaching out to developer communities.
+## What I Do
 
----
+- 💻 Develop and deploy web apps
+- 🎓 Coach aspiring developers
+- ✍️ Create top-notch technical content
+- 🚀 Help tech products/SaaS reach developer communities
 
-## Check Out My Blogs
+## Featured Blog Posts
 
-- [How to Create a Blog with Next.js and Firebase](https://theankurtyagi.com/how-to-create-blog-with-nextjs-and-firebase/)
-- [Getting Started with Appwrite](https://theankurtyagi.com/appwrite/)
-- [Building a Notes App with React and Supabase](https://theankurtyagi.com/notes-app-react-supabase/)
-- [Understanding React Hooks](https://theankurtyagi.com/react-hooks/)
-- [React State Management: A Complete In-Depth Look](https://theankurtyagi.com/react-state-management-a-complete-in-depth-look-at-hooks-context-api-and-redux/)
-- [Deploying LLMs with MindsDB and OpenAI: A Step-by-Step Guide](https://theankurtyagi.com/a-step-by-step-guide-for-deploying-llms-with-mindsdb-and-openai/)
-- [Creating a Next.js eCommerce Store with Medusa](https://theankurtyagi.com/use-medusa-to-create-a-next-js-ecommerce-store/)
-- [GitHub Copilot vs. Tabnine: Choosing the Best AI Assistant](https://theankurtyagi.com/github-copilot-vs-tabnine-choose-the-best-ai-assistant-for-you/)
-- [Building a Secure E-Commerce App with SuperTokens and Hasura GraphQL](https://theankurtyagi.com/build-a-secure-e-commerce-app-with-supertokens-and-hasura-graphql/)
-- [Using HarperDB Custom Functions with Your React App](https://theankurtyagi.com/how-to-use-harperdb-custom-functions-with-your-react-app/)
-- [Learn React: Key Concepts](https://www.freecodecamp.org/news/learn-react-key-concepts/)
-- [Building a Chat App with PostgreSQL Data](https://dev.to/agentcloud/how-to-build-a-chat-app-with-your-postgres-data-using-agent-cloud-33hk)
-- [Building a RAG Chat App with Agent Cloud and BigQuery](https://dev.to/agentcloud/how-to-build-a-rag-chat-app-with-agent-cloud-and-bigquery-15b)
+1. [How to Create a Blog with Next.js and Firebase](https://theankurtyagi.com/how-to-create-blog-with-nextjs-and-firebase/)
+2. [Getting Started with Appwrite](https://theankurtyagi.com/appwrite/)
+3. [Building a Notes App with React and Supabase](https://theankurtyagi.com/notes-app-react-supabase/)
+4. [Understanding React Hooks](https://theankurtyagi.com/react-hooks/)
+5. [React State Management: A Complete In-Depth Look](https://theankurtyagi.com/react-state-management-a-complete-in-depth-look-at-hooks-context-api-and-redux/)
 
+[View all blog posts](https://theankurtyagi.com/blog)
 
+## Connect With Me
 
-All Social Links: [LinkedIn 💼](https://linkedin.com/in/tyaga001) [Twitter 🐦](https://twitter.com/TheAnkurTyagi) [Website 🌍](https://theankurtyagi.com/)
+- [LinkedIn](https://linkedin.com/in/tyaga001)
+- [Twitter](https://twitter.com/TheAnkurTyagi)
+- [Website](https://theankurtyagi.com/)
+
+Feel free to reach out if you want to collaborate on a project or just chat about the latest in tech!
