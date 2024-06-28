@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankur Tyagi
 
-My Name is Ankur, living in Sweden and I'm passionate about new technology and developer tools, and I sit somewhere between software engineering, product marketing, growth, community building and developer advocacy. I've been involved with the web for ~14 years and the last 4 of which have been documented in punishing detail on my website.
+My Name is Ankur, living in Sweden and I'm passionate about new technology and developer tools, and I sit somewhere between software engineering, product marketing, growth, community building and developer advocacy. I've been involved with the web for ~14 years and the last 4 of which have been documented in punishing detail on my [website](https://theankurtyagi.com/).
 
 ## About Me
 
