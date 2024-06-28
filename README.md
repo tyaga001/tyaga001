@@ -42,4 +42,4 @@ While I enjoyed being a Software Engineer, my true passion lies in the entire pr
 - [Twitter](https://twitter.com/TheAnkurTyagi)
 - [Website](https://theankurtyagi.com/)
 
-Feel free to reach out if you want to collaborate on a project or just chat about the latest in tech!
+Feel free to reach out if you want to collaborate on a project or just chat about the latest developer tools in tech.
