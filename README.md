@@ -10,7 +10,7 @@ My expertise includes:
 - Creating high-quality technical content
 - Product marketing and community outreach
 
-While I enjoyed being a Software Engineer, my true passion lies in the entire process: coding, designing, developing, and then writing about it.
+While I enjoyed being an Engineer, my true passion lies in the entire process: coding, designing, developing, and then writing about it.
 
 ## What I Do
 
