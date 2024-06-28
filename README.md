@@ -26,6 +26,14 @@ While I enjoyed being an Engineer, my true passion lies in the entire process: c
 3. [Building a Notes App with React and Supabase](https://theankurtyagi.com/notes-app-react-supabase/)
 4. [Understanding React Hooks](https://theankurtyagi.com/react-hooks/)
 5. [React State Management: A Complete In-Depth Look](https://theankurtyagi.com/react-state-management-a-complete-in-depth-look-at-hooks-context-api-and-redux/)
+6. [Build a Review App with Hygraph and React](https://theankurtyagi.com/build-review-app-hygraph-react/)
+7. [Next.js vs React: Choosing the Right Framework](https://theankurtyagi.com/nextjs-vs-react/)
+8. [A Startup's Guide to Technical Content Creation](https://theankurtyagi.com/a-startups-guide-to-technical-content-creation/)
+9. [Deploying LLMs with MindsDB and OpenAI: A Step-by-Step Guide](https://theankurtyagi.com/a-step-by-step-guide-for-deploying-llms-with-mindsdb-and-openai/)
+10. [Building Scalable Microservices with Amplication, GraphQL, MongoDB, and Kafka](https://theankurtyagi.com/building-scalable-microservices-with-amplication-graphql-mongodb-and-kafka/)
+11. [Creating a Next.js eCommerce Store with Medusa](https://theankurtyagi.com/use-medusa-to-create-a-next-js-ecommerce-store/)
+12. [Building a Secure E-Commerce App with SuperTokens and Hasura GraphQL](https://theankurtyagi.com/build-a-secure-e-commerce-app-with-supertokens-and-hasura-graphql/)
+13. [Using HarperDB Custom Functions with Your React App](https://theankurtyagi.com/how-to-use-harperdb-custom-functions-with-your-react-app/)
 
 [View all blog posts](https://theankurtyagi.com/blog)
 
