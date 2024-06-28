@@ -12,12 +12,12 @@ My expertise includes:
 
 While I enjoyed being an Engineer, my true passion lies in the entire process: coding, designing, developing, and then writing about it.
 
-## What I Do
+## 🔧 Technologies & Skills
 
-- 💻 Develop and deploy web apps
-- 🎓 Coach aspiring developers
-- ✍️ Create top-notch technical content
-- 🚀 Help tech products/SaaS reach developer communities
+- Full-Stack Development (React, Node.js, Next.js)
+- Technical Writing & Documentation
+- Developer Relations & Community Building
+- Product Marketing for Developer Tools
 
 ## Featured Blog Posts
 
