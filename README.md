@@ -10,7 +10,14 @@ My expertise includes:
 - Creating high-quality technical content
 - Product marketing and community outreach
 
-While I enjoyed being an Engineer, my true passion lies in the entire process: coding, designing, developing, and then writing about it.
+While I enjoyed being an engineer, my true passion lies in the entire process: coding, designing, developing, writing and then marketing about it.
+
+From 2020 I've become increasingly interested in technical writing and have had multiple articles published on well known publications such as
+
+- [FreeCodeCamp](https://www.freecodecamp.org/news/author/theankurtyagi/)
+- [DevTo](https://dev.to/tyaga001)
+- [Hackernoon](https://hackernoon.com/u/theankurtyagi)
+- [Hashnode](https://hashnode.com/@TheAnkurTyagi)
 
 ## 🔧 Technologies & Skills
 
