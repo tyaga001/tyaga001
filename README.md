@@ -49,6 +49,8 @@ From 2020 I've become increasingly interested in technical writing and have had 
 1. [Learn React: Key Concepts](https://www.freecodecamp.org/news/learn-react-key-concepts/)
 2. [How to Build a RAG Chatbot with Agent Cloud and Google Sheets](https://www.freecodecamp.org/news/build-a-rag-chatbot-agent-cloud-google-sheets/)
 3. [Technical Writing for Developers – How to Write Software Documentation](https://www.freecodecamp.org/news/technical-writing-for-developers/)
+4. [Full Stack Development with Next.js, Clerk, and Neon Postgres](https://www.freecodecamp.org/news/nextjs-clerk-neon-fullstack-development/)
+
 
 [📚 Learn more about my writing services](https://theankurtyagi.com/blogging-service/)
 
