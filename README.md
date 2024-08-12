@@ -26,6 +26,10 @@ From 2020 I've become increasingly interested in technical writing and have had 
 - Developer Relations & Community Building
 - Product Marketing for Developer Tools
 
+## Latest Blog Post: Neon vs Supabase
+
+In my latest blog post, I compared two popular developer tools: [Neon vs Supabase](https://www.devtoolsacademy.com/blog/neon-vs-supabase).
+
 ## Featured Blog Posts
 
 1. [How to Create a Blog with Next.js and Firebase](https://theankurtyagi.com/how-to-create-blog-with-nextjs-and-firebase/)
