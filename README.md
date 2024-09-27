@@ -1,14 +1,21 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankur Tyagi
 
-My Name is Ankur, living in Sweden and I'm passionate about new technology and developer tools, and I sit somewhere between software engineering, product marketing, growth, community building and developer advocacy. I've been involved with the web for ~14 years and the last 4 of which have been documented in punishing detail on my [website](https://theankurtyagi.com/).
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8DF7&background=98FF3500&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Technical+Writer;Developer+Advocate;Community+Builder;DevTools+Enthusiast" alt="Typing SVG" />
+</div>
 
-## About Me
+## 👨‍💻 About Me
 
-My expertise includes:
-- Developing, testing, and deploying web applications
-- Coaching budding developers
-- Creating high-quality technical content
-- Product marketing and community outreach
+I'm Ankur, a passionate technologist living in Sweden. With ~14 years of web experience, I bridge the gap between software engineering, product marketing, growth, community building, and developer education.
+
+<details>
+<summary>🔍 More about my expertise</summary>
+
+- 🌐 Developing, testing, and deploying web apps
+- 🧑‍🏫 Coaching budding developers
+- ✍️ Creating high-quality technical content
+- 🚀 Product marketing and community outreach
+- 🛠️ Exploring and reviewing developer tools
 
 While I enjoyed being an engineer, my true passion lies in the entire process: coding, designing, developing, writing and then marketing about it.
 
@@ -19,19 +26,38 @@ From 2020 I've become increasingly interested in technical writing and have had 
 - [Hackernoon](https://hackernoon.com/u/theankurtyagi)
 - [Hashnode](https://hashnode.com/@TheAnkurTyagi)
 
-## 🔧 Technologies & Skills
+</details>
 
-- Full-Stack Development (React, Node.js, Next.js)
-- Technical Writing & Documentation
-- Developer Relations & Community Building
-- Product Marketing for Developer Tools
+## 🚀 Latest Projects
 
-## Recent Blog Posts
+<div align="center">
+
+[![DevTools Academy](https://img.shields.io/badge/DevTools_Academy-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.devtoolsacademy.com/)
+[![Bytesized Bets Newsletter](https://img.shields.io/badge/Bytesized_Bets-FFA500?style=for-the-badge&logo=substack&logoColor=white)](https://bytesizedbets.com/)
+
+</div>
+
+- 🎓 [DevTools Academy](https://www.devtoolsacademy.com/): Your go-to resource for learning about the latest developer tools and technologies.
+- 📰 [Bytesized Bets Newsletter](https://bytesizedbets.com/): Subscribe for bite-sized insights on dev tools, tech trends, and software engineering best practices.
+
+## 🛠️ Technologies & Skills
+
+<div align="center">
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
+
+## 📝 Recent Blog Posts
 
 - [Neon vs Supabase](https://www.devtoolsacademy.com/blog/neon-vs-supabase) ![Hacker News](https://img.shields.io/badge/featured-Hacker%20News-orange)
 - [State of Serverless Databases 2024](https://www.devtoolsacademy.com/blog/state-of-databases-2024) ![Hashnode](https://img.shields.io/badge/featured-Hashnode-blue)
 
-## Featured Blog Posts
+<details>
+<summary>📚 View featured blog posts</summary>
 
 1. [How to Create a Blog with Next.js and Firebase](https://theankurtyagi.com/how-to-create-blog-with-nextjs-and-firebase/)
 2. [Getting Started with Appwrite](https://theankurtyagi.com/appwrite/)
@@ -49,58 +75,27 @@ From 2020 I've become increasingly interested in technical writing and have had 
 
 [View all blog posts](https://theankurtyagi.com/blog)
 
-## My freeCodeCamp Articles
+</details>
 
-1. [Learn React: Key Concepts](https://www.freecodecamp.org/news/learn-react-key-concepts/)
-2. [How to Build a RAG Chatbot with Agent Cloud and Google Sheets](https://www.freecodecamp.org/news/build-a-rag-chatbot-agent-cloud-google-sheets/)
-3. [Technical Writing for Developers – How to Write Software Documentation](https://www.freecodecamp.org/news/technical-writing-for-developers/)
-4. [Full Stack Development with Next.js, Clerk, and Neon Postgres](https://www.freecodecamp.org/news/nextjs-clerk-neon-fullstack-development/)
-5. [How to Build an Invoice SaaS App with Next.js, Resend, Clerk and Neon Postgres](https://www.freecodecamp.org/news/build-an-invoice-saas-app-with-next-js-and-neon-postgres/)
-
-
-[📚 Learn more about my writing services](https://theankurtyagi.com/blogging-service/)
-
-
-## Connect With Me
-
-- [LinkedIn](https://linkedin.com/in/tyaga001)
-- [Twitter](https://twitter.com/TheAnkurTyagi)
-- [Website](https://theankurtyagi.com/)
-
-## Languages & Tools 🛠 
+## 🌐 Connect With Me
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h3>Frontend (Web)</h3>
-        <div align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-        </div>
-      </td>
-      <td valign="top" width="50%">
-        <h3>Backend & Databases</h3>
-        <div align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-          <img src="https://neon.tech/favicon/apple-touch-icon.png" alt="Neon.tech" width="60" height="60"/>
-        </div>
-      </td>
-    </tr>
-  </table>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TheAnkurTyagi)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheAnkurTyagi)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theankurtyagi.com/)
+
 </div>
 
-Feel free to reach out if you want to collaborate on a project or just chat about the latest developer tools in tech.
+## 🛠️ Languages & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nodejs,express,python,php,laravel,mysql,postgres,mongodb,docker&perline=8" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tyaga001&color=blueviolet" alt="Profile views" />
+  <a href="https://www.buymeacoffee.com/theankurtyagi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=theankurtyagi&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+</div>
