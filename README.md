@@ -97,5 +97,5 @@ From 2020 I've become increasingly interested in technical writing and have had 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tyaga001&color=blueviolet" alt="Profile views" />
-  <a href="https://www.buymeacoffee.com/theankurtyagi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=theankurtyagi&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+  <a href="https://www.buymeacoffee.com/ankurtyagi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=theankurtyagi&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 </div>
