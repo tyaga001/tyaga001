@@ -53,6 +53,7 @@ From 2020 I've become increasingly interested in technical writing and have had 
 
 ## 📝 Recent Blog Posts
 
+- [MongoDB vs PostgreSQL](https://www.devtoolsacademy.com/blog/mongoDB-vs-postgreSQL)
 - [Neon vs Supabase](https://www.devtoolsacademy.com/blog/neon-vs-supabase) ![Hacker News](https://img.shields.io/badge/featured-Hacker%20News-orange)
 - [State of Serverless Databases 2024](https://www.devtoolsacademy.com/blog/state-of-databases-2024) ![Hashnode](https://img.shields.io/badge/featured-Hashnode-blue)
 
