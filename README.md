@@ -34,6 +34,7 @@ From 2020 I've become increasingly interested in technical writing and have had 
 
 [![DevTools Academy](https://img.shields.io/badge/DevTools_Academy-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.devtoolsacademy.com/)
 [![Bytesized Bets Newsletter](https://img.shields.io/badge/Bytesized_Bets-FFA500?style=for-the-badge&logo=substack&logoColor=white)](https://bytesizedbets.com/)
+[![Marketing Dev Tools](https://img.shields.io/badge/Marketing_Dev_Tool-FF4500?style=for-the-badge&logo=react&logoColor=white)](https://www.marketingdevtool.com/)
 
 </div>
 
