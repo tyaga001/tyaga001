@@ -54,12 +54,16 @@ From 2020 I've become increasingly interested in technical writing and have had 
 
 ## 📝 Recent Blog Posts
 
+- [Fine-Grained Authorization in Java and Spring Boot](https://www.freecodecamp.org/news/fine-grained-authorization-in-java-and-springboot/)
+- [Custom Video Conferencing App with Stream and Next.js](https://www.freecodecamp.org/news/how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs/)
+- [Next.js Full Stack Development with Clerk and Neon](https://www.freecodecamp.org/news/nextjs-clerk-neon-fullstack-development/)
+- [Supabase vs Clerk](https://www.devtoolsacademy.com/blog/supabase-vs-clerk)
 - [MongoDB vs PostgreSQL](https://www.devtoolsacademy.com/blog/mongoDB-vs-postgreSQL)
 - [Neon vs Supabase](https://www.devtoolsacademy.com/blog/neon-vs-supabase) ![Hacker News](https://img.shields.io/badge/featured-Hacker%20News-orange)
 - [State of Serverless Databases 2024](https://www.devtoolsacademy.com/blog/state-of-databases-2024) ![Hashnode](https://img.shields.io/badge/featured-Hashnode-blue)
 
 <details>
-<summary>📚 View featured blog posts</summary>
+<summary>📚 View more featured blog posts</summary>
 
 1. [How to Create a Blog with Next.js and Firebase](https://theankurtyagi.com/how-to-create-blog-with-nextjs-and-firebase/)
 2. [Getting Started with Appwrite](https://theankurtyagi.com/appwrite/)
