@@ -55,7 +55,7 @@ From 2020 I've become increasingly interested in technical writing and have had 
 ## 📝 Recent Blog Posts
 
 - [How to Perform Code Reviews in Tech – The Painless Way](https://www.freecodecamp.org/news/how-to-perform-code-reviews-in-tech-the-painless-way/)
-- [Fine-Grained Authorization in Java and Spring Boot](https://www.freecodecamp.org/news/fine-grained-authorization-in-java-and-springboot/)
+- [How to Implement Fine-Grained Authorization in Java and Spring Boot](https://www.freecodecamp.org/news/fine-grained-authorization-in-java-and-springboot/)
 - [How to Build a Custom Video Conferencing App with Stream and Next.js](https://www.freecodecamp.org/news/how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs/)
 - [Next.js Full Stack Development with Clerk and Neon](https://www.freecodecamp.org/news/nextjs-clerk-neon-fullstack-development/)
 - [Supabase vs Clerk](https://www.devtoolsacademy.com/blog/supabase-vs-clerk)
