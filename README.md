@@ -54,6 +54,7 @@ From 2020 I've become increasingly interested in technical writing and have had 
 
 ## 📝 Recent Blog Posts
 
+- [How to Implement Role-Based Access Control in Next.js 15](https://clerk.com/blog/nextjs-role-based-access-control)
 - [ZenML VS Flyte VS Metaflow](https://mlops.community/zenml-vs-flyte-vs-metaflow/)
 - [How to Perform Code Reviews in Tech – The Painless Way](https://www.freecodecamp.org/news/how-to-perform-code-reviews-in-tech-the-painless-way/)
 - [How to Automate TypeScript Code Reviews with CodeRabbit](https://www.coderabbit.ai/blog/how-to-automate-typescript-code-reviews-with-coderabbit)
