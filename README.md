@@ -55,7 +55,6 @@ From 2020 I've become increasingly interested in technical writing and have had 
 ## 📝 Recent Blog Posts
 
 - [Cursor vs Windsurf](https://www.devtoolsacademy.com/blog/cursor-vs-windsurf/)
-- [Twilio vs Stream](https://www.devtoolsacademy.com/blog/stream-vs-twilio/)
 - [Cody vs Cursor](https://www.devtoolsacademy.com/blog/cody-vs-cursor-choosing-the-right-ai-code-assistant-for-your-development-workflow/)
 - [How to Do Thoughtful Code Reviews](https://www.coderabbit.ai/blog/how-to-do-thoughtful-code-reviews)
 - [How to Implement Role-Based Access Control in Next.js 15](https://clerk.com/blog/nextjs-role-based-access-control)
