@@ -21,7 +21,7 @@ While I enjoyed being an engineer, my true passion lies in the entire process: c
 
 From 2020 I've become increasingly interested in technical writing and have had multiple articles published on well known publications such as
 
-- [FreeCodeCamp](https://www.freecodecamp.org/news/author/theankurtyagi/)
+- [FreeCodeCamp](https://www.freecodecamp.org/news/author/TheAnkurTyagi/) 
 - [DevTo](https://dev.to/tyaga001)
 - [Hackernoon](https://hackernoon.com/u/theankurtyagi)
 - [Hashnode](https://hashnode.com/@TheAnkurTyagi)
@@ -54,6 +54,9 @@ From 2020 I've become increasingly interested in technical writing and have had 
 
 ## 📝 Recent Blog Posts
 
+- [Cursor vs Windsurf](https://www.devtoolsacademy.com/blog/cursor-vs-windsurf/)
+- [Twilio vs Stream](https://www.devtoolsacademy.com/blog/stream-vs-twilio/)
+- [Cody vs Cursor](https://www.devtoolsacademy.com/blog/cody-vs-cursor-choosing-the-right-ai-code-assistant-for-your-development-workflow/)
 - [How to Do Thoughtful Code Reviews](https://www.coderabbit.ai/blog/how-to-do-thoughtful-code-reviews)
 - [How to Implement Role-Based Access Control in Next.js 15](https://clerk.com/blog/nextjs-role-based-access-control)
 - [ZenML VS Flyte VS Metaflow](https://mlops.community/zenml-vs-flyte-vs-metaflow/)
@@ -66,6 +69,8 @@ From 2020 I've become increasingly interested in technical writing and have had 
 - [Neon vs Supabase](https://www.devtoolsacademy.com/blog/neon-vs-supabase) ![Hacker News](https://img.shields.io/badge/featured-Hacker%20News-orange)
 - [State of Serverless Databases 2024](https://www.devtoolsacademy.com/blog/state-of-databases-2024) ![Hashnode](https://img.shields.io/badge/featured-Hashnode-blue)
 - [How to Implement Fine-Grained Authorization in Java and Spring Boot](https://www.freecodecamp.org/news/fine-grained-authorization-in-java-and-springboot/)
+- [How to Build a RAG Chat App With Agent Cloud and BigQuery](https://dev.to/agentcloud/how-to-build-a-rag-chat-app-with-agent-cloud-and-bigquery-15b)
+- [How To Add Authentication & Secure HarperDB APIs Using SuperTokens in a React App](https://www.harpersystems.dev/development/tutorials/how-to-add-authentication-secure-harperdb-apis-using-supertokens-in-your-react-app)
 
 <details>
 <summary>📚 View more featured blog posts</summary>
