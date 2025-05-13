@@ -54,6 +54,7 @@ From 2020 I've become increasingly interested in technical writing and have had 
 
 ## 📝 Recent Blog Posts
 
+- [AI Code Reviewers vs Human Code Reviewers](https://www.devtoolsacademy.com/blog/ai-code-reviewers-vs-human-code-reviewers/)
 - [Cursor vs Windsurf](https://www.devtoolsacademy.com/blog/cursor-vs-windsurf/)
 - [Cody vs Cursor](https://www.devtoolsacademy.com/blog/cody-vs-cursor-choosing-the-right-ai-code-assistant-for-your-development-workflow/)
 - [How to Do Thoughtful Code Reviews](https://www.coderabbit.ai/blog/how-to-do-thoughtful-code-reviews)
