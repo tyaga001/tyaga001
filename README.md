@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Ankur, a developer based in Sweden with ~15 years of experience. I specialize in connecting the dots between engineering, product marketing, growth strategies, community building, and developer education.
+I'm Ankur, a developer based in Sweden with ~15 years of experience. I specialize in connecting the dots among engineering, product marketing, growth strategies, community building, and developer education.
 
 <details>
 <summary>🔍 More about my expertise</summary>
