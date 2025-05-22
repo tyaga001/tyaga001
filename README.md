@@ -54,6 +54,7 @@ From 2020 I've become increasingly interested in technical writing and have had 
 
 ## 📝 Recent Blog Posts
 
+- [How to Refactor Complex Codebases](https://www.freecodecamp.org/news/how-to-refactor-complex-codebases/)
 - [How to Build a Real-Time Voting App With Stream Chat and Next.js](https://thenewstack.io/build-a-real-time-voting-app-with-stream-chat-and-next-js/)
 - [AI Code Reviewers vs Human Code Reviewers](https://www.devtoolsacademy.com/blog/ai-code-reviewers-vs-human-code-reviewers/)
 - [Cursor vs Windsurf](https://www.devtoolsacademy.com/blog/cursor-vs-windsurf/)
