@@ -54,6 +54,7 @@ From 2020 I've become increasingly interested in technical writing and have had 
 
 ## 📝 Recent Blog Posts
 
+- [How to integrate Slack conversations into your Code Review](https://www.coderabbit.ai/blog/how-to-deploy-and-integrate-mcp-servers-with-coderabbit)
 - [GitHub Copilot best practices: 10 tips & tricks that actually help](https://www.coderabbit.ai/blog/github-copilot-best-practices-10-tips-and-tricks-that-actually-help)
 - [How AI is Changing the Role of Senior Developers in Code Review](https://thenewstack.io/ai-and-vibe-coding-are-radically-impacting-senior-devs-in-code-review/)
 - [BetterAuth vs NextAuth](https://www.devtoolsacademy.com/blog/betterauth-vs-nextauth/)
